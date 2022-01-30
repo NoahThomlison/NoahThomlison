@@ -8,16 +8,9 @@ I'm a Mecahnical Engineer who is transitioning to Web Development and am current
 - 🌱 I’m currently learning **Ruby, Rails, Python**
 - 💬 Ask me about **JavaScript, React**
 - ⚡ Fun fact **I enjoy riding motorcycles and petting dogs**
-- 📧 Email me [https://resume.creddle.io/resume/f5bhq4mil77](https://resume.creddle.io/resume/f5bhq4mil77) noahthomlison@gmail.com
-- 📄 Know about my experiences [https://resume.creddle.io/resume/f5bhq4mil77](https://resume.creddle.io/resume/f5bhq4mil77)
-
-<h3 align="center">Connect with me</h3>
-
----
-
-<a href="https://www.linkedin.com/in/noahthomlison/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a> 
-<a href="mailto:noahthomlison@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/> </a> 
-
+- 📧 [Email me](mailto:noahthomlison@gmail.com)
+- 👀 [Look at my LinkedIn](https://www.linkedin.com/in/noahthomlison)
+- 📄 [Checkout my Resume](https://resume.creddle.io/resume/f5bhq4mil77)
 
 <h3 align="center">Languages and Tools</h3>
 
