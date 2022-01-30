@@ -7,9 +7,8 @@ I'm a Mecahnical Engineer who is transitioning to Web Development and am current
 
 - 🌱 I’m currently learning **Ruby, Rails, Python**
 - 💬 Ask me about **JavaScript, React**
-- Email me here: noahthomlison@gmail.com
-- 
 - ⚡ Fun fact **I enjoy riding motorcycles and petting dogs**
+- 📧 Email me [https://resume.creddle.io/resume/f5bhq4mil77](https://resume.creddle.io/resume/f5bhq4mil77) noahthomlison@gmail.com
 - 📄 Know about my experiences [https://resume.creddle.io/resume/f5bhq4mil77](https://resume.creddle.io/resume/f5bhq4mil77)
 
 <h3 align="center">Connect with me</h3>
