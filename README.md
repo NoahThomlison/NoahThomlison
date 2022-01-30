@@ -15,7 +15,7 @@ I'm a Mecahnical Engineer who is transitioning to Web Development and am current
 ---
 
 <a href="https://www.linkedin.com/in/noahthomlison/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a> 
-<a href="mailto: noahthomlison@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/> </a> 
+<a href="mailto:noahthomlison@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/> </a> 
 
 
 <h3 align="center">Languages and Tools</h3>
