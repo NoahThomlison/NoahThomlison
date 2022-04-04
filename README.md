@@ -8,6 +8,7 @@ I'm a Mechanical Engineer who is transitioning to Web Development. I love the ra
 - 🌱 I’m currently learning **Ruby, Rails, Python**
 - 💬 Ask me about **JavaScript, React**
 - ⚡ Fun fact **I enjoy riding motorcycles and petting dogs**
+- 💻 [View my portfolio](https://noahthomlisonportfolio.netlify.app/)
 - 📧 [Email me](mailto:noahthomlison@gmail.com)
 - 👀 [Look at my LinkedIn](https://www.linkedin.com/in/noahthomlison)
 - 📄 [Checkout my Resume](https://resume.creddle.io/resume/f5bhq4mil77)
