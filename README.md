@@ -84,6 +84,24 @@ width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" 
 width="40" height="40"/> </a> 
 
+<a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+width="40" height="40"/> </a> 
+
+<a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
+width="40" height="40"/> </a> 
+
+<a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+width="40" height="40"/> </a> 
+
+<a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"
+width="40" height="40"/> </a> 
+
+
+
 </p>
 
 <h3 align="center">Github Stats</h3>
