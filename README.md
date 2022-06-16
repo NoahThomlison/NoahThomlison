@@ -3,7 +3,7 @@
 ---
 
 <p align="left">
-I'm a Mechanical Engineer who is transitioning to Web Development. I love the rapid pace of development and the ability to quickly iterate on a design and find the solution. I have recently completed a diploma at Lighthouse Labs (LHL) and am currently working on building on my knowledge and learning Python.</p>
+I'm a Mechanical Engineer who is transitioning to Web Development. I love the rapid pace of development and the ability to quickly iterate on a design and find the solution. I have spent the last year and a half developing the skills and knowledge to make this transition. This was done through attending a boot camp, daily coding and creating personal projects. I am currently working to learn React Native.</p>
 
 - 🌱 I’m currently learning **Ruby, Rails, Python**
 - 💬 Ask me about **JavaScript, React**
