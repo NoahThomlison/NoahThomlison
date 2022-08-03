@@ -1,9 +1,9 @@
-<h3 align="center">A Mechanical Engineer pivoting to Web Development</h3>
+<h3 align="center">Full Stack Web Developer with background in Mechanical Engineering</h3>
 
 ---
 
 <p align="left">
-I'm a Mechanical Engineer who is transitioning to Web Development. I love the rapid pace of development and the ability to quickly iterate on a design and find the solution. I have spent the last year and a half developing the skills and knowledge to make this transition. This was done through attending a boot camp, daily coding and creating personal projects. I am currently working to learn React Native.</p>
+I'm a full stack web developer with a background in Mechanical Engineering. For the past year and a half, I have worked to gain the required knowledge and skills to make a career pivot. Recently I was working in the industry as a Junior Developer until a series of layoffs affected my company. I love the rapid pace of development and the ability to quickly iterate on a design and find the solution. I have 6 years of experience as a Mechanical Engineer in product design, project management and testing with numerous references.</p>
 
 - 🌱 I’m currently learning **Ruby, Rails, Python**
 - 💬 Ask me about **JavaScript, React**
