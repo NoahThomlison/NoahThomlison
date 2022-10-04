@@ -39,12 +39,3 @@ width="40" height="40"/> </a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/
 width="40" height="40"/> </a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
 width="40" height="40"/> </a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"
 width="40" height="40"/> </a> </p>
-
-<h3 align="center">Github Stats</h3>
-
----
-
-
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahThomlison&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahThomlison&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
