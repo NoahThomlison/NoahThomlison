@@ -3,7 +3,8 @@
 ---
 
 <p align="left">
-I'm a full stack web developer with a background in Mechanical Engineering. For the past year and a half, I have worked to gain the required knowledge and skills to make a career pivot. Recently I was working in the industry as a Junior Developer until a series of layoffs affected my company. I love the rapid pace of development and the ability to quickly iterate on a design and find the solution. I have 6 years of experience as a Mechanical Engineer in product design, project management and testing with numerous references.</p>
+I'm a full-stack web developer with a background in Mechanical Engineering. I am currently working as a frontend developer on the Product Team at [Commerce7](https://commerce7.com/). 
+ </p>
 
 - 🌱 I’m currently learning **Ruby, Rails, Python**
 - 💬 Ask me about **JavaScript, React**
