@@ -3,7 +3,7 @@
 ---
 
 <p align="left">
-I'm a full-stack web developer with a background in Mechanical Engineering. I am currently working as a frontend developer on the Product Team at [Commerce7](https://commerce7.com/). 
+I'm a full-stack web developer with a background in Mechanical Engineering. I am currently working as a frontend developer on the Product Team at <a href='https://commerce7.com/'>Commerce7</a>.
  </p>
 
 - 🌱 I’m currently learning **Ruby, Rails, Python**
